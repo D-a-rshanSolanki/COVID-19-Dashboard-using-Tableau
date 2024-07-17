@@ -55,9 +55,6 @@ This repository contains datasets related to COVID-19 cases, vaccination, and te
 2. **Load the datasets**:
 Use your preferred data analysis tools (such as Python with pandas, R, Excel, etc.) to load and analyze the data.
 
-Example using Python with pandas:
-import pandas as pd
-
 ## Load COVID-19 cases data
 covid_cases = pd.read_csv('covid_19_india.csv')
 
