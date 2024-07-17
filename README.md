@@ -1,5 +1,3 @@
-# COVID-19-Dashboard-using-Tableau
-
 # COVID-19 India Data Analysis
 
 This repository contains datasets related to COVID-19 cases, vaccination, and testing details in India. The datasets can be used for analysis, visualization, and understanding the spread and control measures of COVID-19 in different states of India.
