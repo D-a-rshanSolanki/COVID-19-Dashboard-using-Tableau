@@ -58,13 +58,13 @@ Use your preferred data analysis tools (such as Python with pandas, R, Excel, et
 Example using Python with pandas:
 import pandas as pd
 
-# Load COVID-19 cases data
+## Load COVID-19 cases data
 covid_cases = pd.read_csv('covid_19_india.csv')
 
-# Load vaccination data
+## Load vaccination data
 vaccination_data = pd.read_csv('covid_vaccine_statewise.csv')
 
-# Load testing data
+## Load testing data
 testing_data = pd.read_csv('StatewiseTestingDetails.csv')
 
 3. **Analyze and visualize**:
